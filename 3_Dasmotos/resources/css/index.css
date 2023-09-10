@@ -1,0 +1,37 @@
+* {
+    font-family: Helvetica;
+}
+.title {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url('/Users/krupaltandel/projects/3_Dasmotos/resources/images/pattern.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 120px;
+} 
+
+h2.brushes {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+h2.frames {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+h2.paint {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+strong {
+    font-weight: bold;
+    color: blue;
+}
